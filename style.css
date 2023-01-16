@@ -551,7 +551,7 @@ input[type="range"]::slider-thumb{
   }
   .ano_novo>span{
     font-family: 'Montserrat', sans-serif;
-    font-size: 160px;
+    font-size: 130px;
     font-weight: 500;
     color: #e9ebf1;
   }
@@ -597,15 +597,15 @@ input[type="range"]::slider-thumb{
 
   span.seis{
     position: absolute;
-    top: 50%;
+    top: 52%;
     right: 50%;
-    margin-right: -200px;
+    margin-right: -172px;
     animation: vai_2016 5s ease-in-out 5s forwards;
   }
   span.sete{
     position: absolute;
     right: 0%;
-    margin-right: -200px;
+    margin-right: -172px;
     animation: vem_2017 6s ease-in-out forwards;
   }
   span.sete:before{
